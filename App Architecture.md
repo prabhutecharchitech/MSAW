@@ -20,3 +20,6 @@ App specific orchestrations like:
 - Database
 - Authentication
 - Integration
+
+<img width="1554" height="1754" alt="image" src="https://github.com/user-attachments/assets/bc627c58-42f6-4a32-8bdf-1b28a345a8ea" />
+
